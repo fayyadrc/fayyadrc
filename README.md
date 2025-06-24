@@ -3,7 +3,7 @@
 🎓 Pursuing a degree in Computer Science
 💻 Passionate about full-stack development & interested in Data Analysis
 🌍 Based in Dubai, UAE  
-📫 Reach me at: [fayyadrc.vercel.app](https://fayyadrc.vercel.app)
+📫 Reach me at: fayyadrc@gmail.com
 
 ## 🔧 Tech Stack
 
