@@ -1,8 +1,11 @@
 # Hi, I'm Fayyad 👋
 
 🎓 Pursuing a degree in Computer Science
+
 💻 Passionate about full-stack development & interested in Data Analysis
+
 🌍 Based in Dubai, UAE  
+
 📫 Reach me at: fayyadrc@gmail.com
 
 ## 🔧 Tech Stack
